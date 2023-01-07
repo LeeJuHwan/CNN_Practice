@@ -17,7 +17,7 @@
     ```
      learning rate * factor
      --> lr = 0.01 
-        factor = 0.08Cancel changes
+        factor = 0.08
     * 콜백함수 선언 시
     --> lr = 0.08
     ```
