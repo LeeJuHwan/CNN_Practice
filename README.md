@@ -2,8 +2,12 @@
 
 ### 데이콘과 캐글로 배우는 CNN
 
-> 1.7 : [EMNIST](https://dacon.io/competitions/official/235626/overview/description) : 데이콘 컴퓨터 비전 학습 경진대회
-#### [ ] 복습 키워드
+### 2023.01.07 
+<hr>
+
+> <strong>[EMNIST]<strong>(https://dacon.io/competitions/official/235626/overview/description) : 데이콘 컴퓨터 비전 학습 경진대회
+
+- [ ] 복습 키워드
 - ImageDataGenerator : 학습 데이터가 적은 경우를 대비한 데이터 증강
     - rotation_range : 각도 변경
     - horizontal_flip : 상하 전환
