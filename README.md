@@ -25,6 +25,7 @@
 
 ### 2023.01.10
 <hr>
+
 - [ ] Kaggle intel images classifcation 데이터 학습
 
 - flow_from_directory : 이미지 폴더를 데이터프레임 형태로 불러오지 않고 png 본연의 이미지를 불러오는 학습 방법
