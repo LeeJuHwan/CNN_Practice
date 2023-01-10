@@ -74,6 +74,6 @@ item = {val : key for key, val in train_loader.class_indices.items()}
     
 <br>
 
-- 인셉션 모델 구현 해보기
+- 인셉션 모델, 잔차 블록 구현 해보기
+    - [인셉션 구현 자료](https://github.com/LeeJuHwan/CNN_Practice/blob/main/1.10_lecture/inception_vgg.ipynb)
 
-- 잔차블록 구현 해보기
